@@ -1,0 +1,6 @@
+{
+  "name": "TimeDelete",
+  "description": "Smart local media cleaner to schedule photos and videos for automatic deletion with live countdowns, folder protection, and Android MediaStore confirmation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
